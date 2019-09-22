@@ -1,0 +1,5 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-pub-dam/sql/20190917_20190918_ATL_PUB_DAM_20190922_11_07_48_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-pub-dam/sql/20190918_20190919_ATL_PUB_DAM_20190922_11_07_54_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-pub-dam/sql/20190919_20190920_ATL_PUB_DAM_20190922_11_07_59_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-pub-dam/sql/20190920_20190921_ATL_PUB_DAM_20190922_11_08_04_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-pub-dam/sql/20190916_20190917_ATL_PUB_DAM_20190922_11_07_43_v1.sql
